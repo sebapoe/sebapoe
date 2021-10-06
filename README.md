@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sebapoe
-- 👀 I’m interested in c, c++, python and embedded software in general
+I'm @sebapoe, currently working as an embedded software engineer. 
 
 <!---
 sebapoe/sebapoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
